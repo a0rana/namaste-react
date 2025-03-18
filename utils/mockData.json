@@ -1,0 +1,1837 @@
+[
+  {
+    "info": {
+      "id": "150652",
+      "name": "Cream Stone Ice Cream",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/3/ad3368d8-98ef-428e-a109-28f9d9475759_150652.jpg",
+      "locality": "Lingampally",
+      "areaName": "Lingampally",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "Ice Cream",
+        "Desserts",
+        "Beverages",
+        "Ice Cream Cakes"
+      ],
+      "avgRating": 4.5,
+      "parentId": "289",
+      "avgRatingString": "4.5",
+      "totalRatingsString": "22K+",
+      "sla": {
+        "deliveryTime": 20,
+        "lastMileTravel": 3.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "3.9 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-17 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Ice-creams.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Ice-creams.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "10% OFF",
+        "subHeader": "UPTO ₹40"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "logoCtx": {
+          "text": "BENEFITS",
+          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+        },
+        "freedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "4.1",
+          "ratingCount": "2.0K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/cream-stone-ice-cream-lingampally-rest150652",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "657473",
+      "name": "Burger King",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/13/df49e533-4265-40bf-81b8-e059f36e7a13_657473.jpg",
+      "locality": "RC Puram",
+      "areaName": "Sangareddy",
+      "costForTwo": "₹350 for two",
+      "cuisines": [
+        "Burgers",
+        "American"
+      ],
+      "avgRating": 4.1,
+      "parentId": "166",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "7.6K+",
+      "sla": {
+        "deliveryTime": 28,
+        "lastMileTravel": 7.3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "7.3 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-18 04:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Burger.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Burger.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "60% OFF",
+        "subHeader": "UPTO ₹120"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/burger-king-rc-puram-sangareddy-rest657473",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "293243",
+      "name": "NIC Ice Creams",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/10/6a0f2879-5878-415b-afc3-2b10174bd635_293243.JPG",
+      "locality": "BAPU NAGAR SERILINGAMPALLY",
+      "areaName": "Serilingampally",
+      "costForTwo": "₹120 for two",
+      "cuisines": [
+        "Ice Cream",
+        "Desserts"
+      ],
+      "avgRating": 4.6,
+      "veg": true,
+      "parentId": "6249",
+      "avgRatingString": "4.6",
+      "totalRatingsString": "5.6K+",
+      "sla": {
+        "deliveryTime": 21,
+        "lastMileTravel": 4.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "4.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-17 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "brand",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "brand"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "60% OFF",
+        "subHeader": "UPTO ₹120"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "logoCtx": {
+          "text": "BENEFITS",
+          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+        },
+        "freedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/nic-ice-creams-bapu-nagar-serilingampally-rest293243",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "93054",
+      "name": "Karachi Bakery",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/16/db92d82d-ffdc-4783-846d-07384ce427b0_93054.jpg",
+      "locality": "Nalagandla",
+      "areaName": "Nalagandla",
+      "costForTwo": "₹400 for two",
+      "cuisines": [
+        "Bakery",
+        "Pizzas",
+        "Chinese",
+        "American",
+        "Sweets",
+        "Desserts"
+      ],
+      "avgRating": 4.3,
+      "parentId": "1262",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "11K+",
+      "sla": {
+        "deliveryTime": 14,
+        "lastMileTravel": 1.2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "10-15 mins",
+        "lastMileTravelString": "1.2 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-17 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "bolt/Bolt%20Listing%20badge@3x.png",
+            "description": "bolt!"
+          },
+          {
+            "imageId": "Rxawards/_CATEGORY-Desserts.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Rxawards/_CATEGORY-Snacks.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "bolt!",
+                  "imageId": "bolt/Bolt%20Listing%20badge@3x.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Desserts.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Snacks.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "10% OFF",
+        "subHeader": "UPTO ₹40"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "logoCtx": {
+          "text": "BENEFITS",
+          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+        },
+        "freedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/karachi-bakery-nalagandla-rest93054",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "98185",
+      "name": "Domino's Pizza",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/13/cb08d210-dc9a-4113-b8fc-d3c63a09d575_98185.JPG",
+      "locality": "Nallangandla Village, Under GHMC,Opposite Hima Sai Lakeview",
+      "areaName": "Huda Layout",
+      "costForTwo": "₹400 for two",
+      "cuisines": [
+        "Pizzas",
+        "Italian",
+        "Pastas",
+        "Desserts"
+      ],
+      "avgRating": 4.4,
+      "parentId": "2456",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "17K+",
+      "sla": {
+        "deliveryTime": 30,
+        "lastMileTravel": 2.1,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "2.1 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-18 03:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Pizza.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹200 OFF",
+        "subHeader": "ABOVE ₹999",
+        "discountTag": "FLAT DEAL"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "logoCtx": {
+          "text": "BENEFITS",
+          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+        },
+        "freedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/dominos-pizza-nallangandla-village-under-ghmc-opposite-hima-sai-lakeview-huda-layout-rest98185",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "335328",
+      "name": "Natural Ice Cream",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/8/642230c0-6416-44ce-a2da-1f771de2cb51_335328.JPG",
+      "locality": "Nallagandla",
+      "areaName": "Tellapur",
+      "costForTwo": "₹150 for two",
+      "cuisines": [
+        "Ice Cream",
+        "Desserts"
+      ],
+      "avgRating": 4.6,
+      "veg": true,
+      "parentId": "2093",
+      "avgRatingString": "4.6",
+      "totalRatingsString": "2.9K+",
+      "sla": {
+        "deliveryTime": 22,
+        "lastMileTravel": 4.3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "4.3 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-17 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Ice-creams.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Ice-creams.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "30% OFF",
+        "subHeader": "UPTO ₹75"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "logoCtx": {
+          "text": "BENEFITS",
+          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+        },
+        "freedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/natural-ice-cream-nallagandla-tellapur-rest335328",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "123933",
+      "name": "Pista House",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/13/5d9502ed-11dd-4b5e-8570-d2c1e44535db_123933.jpg",
+      "locality": "Serilingampally",
+      "areaName": "Serilingampally",
+      "costForTwo": "₹500 for two",
+      "cuisines": [
+        "Biryani",
+        "North Indian",
+        "Chinese",
+        "Kebabs",
+        "Mughlai",
+        "Tandoor",
+        "Desserts"
+      ],
+      "avgRating": 4.3,
+      "parentId": "1732",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "67K+",
+      "sla": {
+        "deliveryTime": 25,
+        "lastMileTravel": 5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "5.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-17 23:59:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "40% OFF",
+        "subHeader": "UPTO ₹80"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "logoCtx": {
+          "text": "BENEFITS",
+          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+        },
+        "freedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/pista-house-serilingampally-rest123933",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "560761",
+      "name": "KFC",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/85051ee2-94c4-4a36-8725-b267d768e387_560761.JPG",
+      "locality": "Nallgandala Road",
+      "areaName": "Lingampally",
+      "costForTwo": "₹400 for two",
+      "cuisines": [
+        "Burgers",
+        "Fast Food",
+        "Rolls & Wraps"
+      ],
+      "avgRating": 3.9,
+      "parentId": "547",
+      "avgRatingString": "3.9",
+      "totalRatingsString": "5.7K+",
+      "sla": {
+        "deliveryTime": 20,
+        "lastMileTravel": 3.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "3.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-18 01:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Burger.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Burger.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹59"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "logoCtx": {
+          "text": "BENEFITS",
+          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+        },
+        "freedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/kfc-nallgandala-road-lingampally-rest560761",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "337986",
+      "name": "Subway",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/21/fde1f994-afa4-4add-9fdb-5ede24076d05_337986.JPG",
+      "locality": "Botanical Garden",
+      "areaName": "Kondapur",
+      "costForTwo": "₹350 for two",
+      "cuisines": [
+        "sandwich",
+        "Salads",
+        "wrap",
+        "Healthy Food"
+      ],
+      "avgRating": 4.2,
+      "parentId": "2",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "5.8K+",
+      "sla": {
+        "deliveryTime": 24,
+        "lastMileTravel": 6.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "6.9 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-18 06:30:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Salad.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Salad.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹200 OFF",
+        "subHeader": "ABOVE ₹499",
+        "discountTag": "FLAT DEAL"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "logoCtx": {
+          "text": "BENEFITS",
+          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+        },
+        "freedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/subway-botanical-garden-kondapur-rest337986",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "196148",
+      "name": "LunchBox - Meals and Thalis",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/16/623dec9b-9bfd-47ed-89ad-44275254aa11_196148.jpg",
+      "locality": "Nallagandla",
+      "areaName": "Tellapur",
+      "costForTwo": "₹300 for two",
+      "cuisines": [
+        "Thalis",
+        "North Indian",
+        "Biryani"
+      ],
+      "avgRating": 4.1,
+      "parentId": "4925",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "3.7K+",
+      "sla": {
+        "deliveryTime": 26,
+        "lastMileTravel": 4.3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "4.3 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-17 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-North%20Indian.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-North%20Indian.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "30% OFF",
+        "subHeader": "UPTO ₹75"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "logoCtx": {
+          "text": "BENEFITS",
+          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+        },
+        "freedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/lunchbox-meals-and-thalis-nallagandla-tellapur-rest196148",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "278209",
+      "name": "Theobroma",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/6/3db10de9-a612-4fbf-94db-4031d2736f42_278209.jpg",
+      "locality": "Lingampally",
+      "areaName": "Lingampally",
+      "costForTwo": "₹400 for two",
+      "cuisines": [
+        "Bakery",
+        "Desserts"
+      ],
+      "avgRating": 4.5,
+      "parentId": "1040",
+      "avgRatingString": "4.5",
+      "totalRatingsString": "2.4K+",
+      "sla": {
+        "deliveryTime": 14,
+        "lastMileTravel": 0.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "10-15 mins",
+        "lastMileTravelString": "0.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-18 00:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "bolt/Bolt%20Listing%20badge@3x.png",
+            "description": "bolt!"
+          },
+          {
+            "imageId": "Green%20Dot%20Awards/Best%20In%20Desserts.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Rxawards/_CATEGORY-Desserts.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "bolt!",
+                  "imageId": "bolt/Bolt%20Listing%20badge@3x.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Green%20Dot%20Awards/Best%20In%20Desserts.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Desserts.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹49"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "logoCtx": {
+          "text": "BENEFITS",
+          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+        },
+        "freedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "3.1",
+          "ratingCount": "89"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/theobroma-lingampally-rest278209",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "2791",
+      "name": "KS Bakers",
+      "cloudinaryImageId": "6127cb288329ad1c9e988276914d48ad",
+      "locality": "Chanda Nagar",
+      "areaName": "Chanda Nagar",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "Bakery",
+        "Pizzas",
+        "Desserts",
+        "Snacks",
+        "Fast Food"
+      ],
+      "avgRating": 4.3,
+      "parentId": "574",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "94K+",
+      "sla": {
+        "deliveryTime": 34,
+        "lastMileTravel": 7.6,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "7.6 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-17 23:45:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "4.3",
+          "ratingCount": "14K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/ks-bakers-chanda-nagar-rest2791",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "643854",
+      "name": "WeFit - Protein Bowls, Salads & Sandwiches",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/3/f6dd6ab5-b9ec-4e49-9321-e4da47d1e1a0_643854.jpg",
+      "locality": "Huda Layout",
+      "areaName": "Water Tank Road",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "Healthy Food",
+        "Salads",
+        "Keto",
+        "Snacks"
+      ],
+      "avgRating": 4.5,
+      "parentId": "355285",
+      "avgRatingString": "4.5",
+      "totalRatingsString": "974",
+      "sla": {
+        "deliveryTime": 25,
+        "lastMileTravel": 2.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-30 mins",
+        "lastMileTravelString": "2.9 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-18 02:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Salad.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Salad.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "30% OFF",
+        "subHeader": "UPTO ₹75"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "logoCtx": {
+          "text": "BENEFITS",
+          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+        },
+        "freedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/wefit-protein-bowls-salads-and-sandwiches-huda-layout-water-tank-road-rest643854",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "7427",
+      "name": "Zomoz - The Momo Company",
+      "cloudinaryImageId": "arddqtncnbbgq6rtmu4g",
+      "locality": "Kondapur",
+      "areaName": "Kondapur",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "Momos",
+        "Fast Food"
+      ],
+      "avgRating": 4.5,
+      "parentId": "10838",
+      "avgRatingString": "4.5",
+      "totalRatingsString": "16K+",
+      "sla": {
+        "deliveryTime": 30,
+        "lastMileTravel": 8.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "8.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-17 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Pan-Asian.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Pan-Asian.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "30% OFF",
+        "subHeader": "UPTO ₹75"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/zomoz-the-momo-company-kondapur-rest7427",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "66191",
+      "name": "Pizza Hut",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/52570dbc-021d-4822-9919-cd91c5b8e321_66191.jpg",
+      "locality": "Lingampally",
+      "areaName": "Lingampally",
+      "costForTwo": "₹350 for two",
+      "cuisines": [
+        "Pizzas"
+      ],
+      "avgRating": 3.9,
+      "parentId": "721",
+      "avgRatingString": "3.9",
+      "totalRatingsString": "14K+",
+      "sla": {
+        "deliveryTime": 27,
+        "lastMileTravel": 3.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "3.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-18 01:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Pizza.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Pizza.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "20% OFF",
+        "subHeader": "UPTO ₹50"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "logoCtx": {
+          "text": "BENEFITS",
+          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+        },
+        "freedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "4.0",
+          "ratingCount": "2.2K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/pizza-hut-lingampally-rest66191",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "118675",
+      "name": "Baskin Robbins - Ice Cream Desserts",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/12/8ee67941-fc33-46f4-ad32-fb1abed2f1aa_118675.jpg",
+      "locality": "Chandanagar",
+      "areaName": "Icrisat Colony",
+      "costForTwo": "₹300 for two",
+      "cuisines": [
+        "Desserts",
+        "Ice Cream"
+      ],
+      "avgRating": 4.4,
+      "veg": true,
+      "parentId": "5588",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "3.4K+",
+      "sla": {
+        "deliveryTime": 27,
+        "lastMileTravel": 6.4,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "6.4 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-18 02:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Ice-creams.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Ice-creams.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "20% OFF",
+        "subHeader": "UPTO ₹50"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "logoCtx": {
+          "text": "BENEFITS",
+          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+        },
+        "freedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/baskin-robbins-ice-cream-desserts-chandanagar-icrisat-colony-rest118675",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "699630",
+      "name": "Wendy's Burgers",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/11/ee9e7782-e1e0-439c-947f-ab1e2a01802c_699630.JPG",
+      "locality": "Seven Hills Commerical Complex",
+      "areaName": "Lingampally",
+      "costForTwo": "₹200 for two",
+      "cuisines": [
+        "Burgers",
+        "American",
+        "Fast Food",
+        "Snacks"
+      ],
+      "avgRating": 4.1,
+      "parentId": "972",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "3.1K+",
+      "sla": {
+        "deliveryTime": 29,
+        "lastMileTravel": 5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "5.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-17 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹59"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "logoCtx": {
+          "text": "BENEFITS",
+          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+        },
+        "freedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/wendys-burgers-seven-hills-commerical-complex-lingampally-rest699630",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "829502",
+      "name": "Bakingo",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/17/8a27c6a4-af5d-445a-b5c5-12b6b648f63e_829502.jpg",
+      "locality": "Rangareddy",
+      "areaName": "Serlingampally Circle No 20",
+      "costForTwo": "₹299 for two",
+      "cuisines": [
+        "Bakery",
+        "Desserts",
+        "Beverages",
+        "Snacks"
+      ],
+      "avgRating": 4.5,
+      "parentId": "3818",
+      "avgRatingString": "4.5",
+      "totalRatingsString": "1.8K+",
+      "sla": {
+        "deliveryTime": 19,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "15-20 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-18 00:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "loyaltyDiscoverPresentationInfo": {
+        "logoCtx": {
+          "text": "BENEFITS",
+          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+        },
+        "freedelMessage": "FREE DELIVERY"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/bakingo-rangareddy-serlingampally-circle-no-20-rest829502",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "189948",
+      "name": "Wow! China",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/13/ba1cdc84-b50b-4a11-bef9-320334a26de3_189948.jpg",
+      "locality": "Miyapur",
+      "areaName": "Miyapur",
+      "costForTwo": "₹300 for two",
+      "cuisines": [
+        "Tibetan",
+        "Chinese",
+        "Asian",
+        "Snacks",
+        "Continental",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 3.7,
+      "parentId": "226836",
+      "avgRatingString": "3.7",
+      "totalRatingsString": "7.9K+",
+      "sla": {
+        "deliveryTime": 38,
+        "lastMileTravel": 7.4,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35-40 mins",
+        "lastMileTravelString": "7.4 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-18 03:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Noodles.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "select": true,
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Noodles.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹129"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "3.7",
+          "ratingCount": "295"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/wow-china-miyapur-rest189948",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "1100",
+      "name": "Santosh Dhaba Exclusive",
+      "cloudinaryImageId": "tto2pcuxusnezxodomzk",
+      "locality": "Kothaguda",
+      "areaName": "Gachibowli",
+      "costForTwo": "₹300 for two",
+      "cuisines": [
+        "North Indian",
+        "Chinese",
+        "Biryani"
+      ],
+      "avgRating": 4.1,
+      "veg": true,
+      "parentId": "8784",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "130K+",
+      "sla": {
+        "deliveryTime": 34,
+        "lastMileTravel": 10.1,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "10.1 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-03-17 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-North%20Indian.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-North%20Indian.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "40% OFF",
+        "subHeader": "UPTO ₹80"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-9fd5f517-4e4b-4053-addd-5ae1d3f88b78"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/hyderabad/santosh-dhaba-exclusive-kothaguda-gachibowli-rest1100",
+      "type": "WEBLINK"
+    }
+  }
+]
