@@ -68,3 +68,8 @@
     width: 100px;
     cursor: pointer;
 }
+
+.btn-search {
+    margin: 10px;
+    cursor: pointer;
+}
