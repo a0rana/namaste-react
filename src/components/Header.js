@@ -1,13 +1,12 @@
 import React, {useEffect, useState} from "react";
 import {LOGO_URL} from "../../utils/constants";
 import {Link} from "react-router";
+import useOnlineStatus from "../../utils/useOnlineStatus";
 
 const HeaderComponent = () => {
     const [btnName, setBtnName] = useState("Login");
-    const [btnTest, setBtnTest] = useState("");
-    useEffect(() => {
-        console.log('use effect called for HeaderComponent');
-    }, [btnTest]);
+    const onlineStatus = useOnlineStatus();
+
     return (
         <div className="header">
             <div className="logo-container">
@@ -17,13 +16,19 @@ const HeaderComponent = () => {
             <div className="nav-items">
                 <ul>
                     <li>
+                        Online: {(onlineStatus ? "✅" : "🔴")}
+                    </li>
+                    <li>
                         <Link to="/">Home</Link>
                     </li>
                     <li>
                         <Link to="/about">About</Link>
                     </li>
                     <li>
-                        <Link to="contact">Contact Us</Link>
+                        <Link to="/contact">Contact Us</Link>
+                    </li>
+                    <li>
+                        <Link to="/grocery">Grocery</Link>
                     </li>
                     <li>Cart</li>
                     <button className="login" onClick={() => {

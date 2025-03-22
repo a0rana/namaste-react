@@ -2,6 +2,7 @@ import React, {use, useEffect, useState} from "react";
 import RestaurantCard from "./RestaurantCard";
 import Shimmer from "./Shimmer";
 import {Link} from "react-router";
+import useOnlineStatus from "../../utils/useOnlineStatus";
 
 const BodyComponent = () => {
     let searchText = '';
@@ -18,6 +19,14 @@ const BodyComponent = () => {
 
         fetchData();
     }, []);
+
+    const onlineStatus = useOnlineStatus();
+
+    if (!onlineStatus) {
+        return (
+            <h1>Your internet is not working!!</h1>
+        );
+    }
 
     if (restaurantList.length === 0) {
         return (
@@ -49,8 +58,8 @@ const BodyComponent = () => {
             </div>
             <div className="restaurant-container">
                 {filteredRestaurantList.map((restaurant) => (
-                    <Link to={"/restaurant/" + restaurant.info.id}><RestaurantCard key={restaurant.info.id}
-                                                                                   restaurantData={restaurant}/></Link>
+                    <Link to={"/restaurant/" + restaurant.info.id} key={restaurant.info.id}><RestaurantCard
+                        restaurantData={restaurant}/></Link>
                 ))}
             </div>
         </div>
