@@ -18,7 +18,8 @@
   "homepage": "https://github.com/a0rana/namaste-react#readme",
   "dependencies": {
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-router": "^7.4.0"
   },
   "devDependencies": {
     "parcel": "^2.13.3",
