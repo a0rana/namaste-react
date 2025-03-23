@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from "react";
+import React, {useState} from "react";
 import {LOGO_URL} from "../../utils/constants";
 import {Link} from "react-router";
 import useOnlineStatus from "../../utils/useOnlineStatus";
@@ -8,30 +8,30 @@ const HeaderComponent = () => {
     const onlineStatus = useOnlineStatus();
 
     return (
-        <div className="header">
+        <div className={"flex justify-between"}>
             <div className="logo-container">
                 <img src={LOGO_URL}
-                     className="logo" alt="logo"></img>
+                     className="w-30" alt="logo"></img>
             </div>
-            <div className="nav-items">
-                <ul>
-                    <li>
+            <div>
+                <ul className="flex p-4 m-4">
+                    <li className="m-4">
                         Online: {(onlineStatus ? "✅" : "🔴")}
                     </li>
-                    <li>
+                    <li className="m-4">
                         <Link to="/">Home</Link>
                     </li>
-                    <li>
+                    <li className="m-4">
                         <Link to="/about">About</Link>
                     </li>
-                    <li>
+                    <li className="m-4">
                         <Link to="/contact">Contact Us</Link>
                     </li>
-                    <li>
+                    <li className="m-4">
                         <Link to="/grocery">Grocery</Link>
                     </li>
-                    <li>Cart</li>
-                    <button className="login" onClick={() => {
+                    <li className="m-4">Cart</li>
+                    <button className="m-4 bg-amber-400 border-1 px-1" onClick={() => {
                         btnName === "Login" ? setBtnName("Logout") : setBtnName("Login");
                     }}>{btnName}</button>
                 </ul>

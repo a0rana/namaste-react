@@ -1,4 +1,4 @@
-import React, {use, useEffect, useState} from "react";
+import React, {useEffect, useState} from "react";
 import RestaurantCard from "./RestaurantCard";
 import Shimmer from "./Shimmer";
 import {Link} from "react-router";
@@ -35,9 +35,9 @@ const BodyComponent = () => {
     }
 
     return (
-        <div className="body">
+        <div>
             <div>
-                <input className="input-text" type="text" onInput={(e) => {
+                <input className="border-1 m-2" type="text" onInput={(e) => {
                     searchText = e.target.value;
                 }} onKeyDown={(e) => {
                     if (e.key === 'Enter') {
@@ -45,18 +45,18 @@ const BodyComponent = () => {
                         setFilteredRestaurantList(filteredData);
                     }
                 }}/>
-                <button className="btn-search" onClick={() => {
+                <button className="bg-amber-400 border-1 m-2 px-1" onClick={() => {
                     const filteredData = restaurantList.filter(restaurant => restaurant.info.name.toLowerCase().includes(searchText.toLowerCase()));
                     setFilteredRestaurantList(filteredData);
                 }}>Search
                 </button>
-                <button className="btnTopRated" onClick={() => {
+                <button className="bg-amber-400 border-1 m-2 px-1" onClick={() => {
                     const filteredData = restaurantList.filter(restaurant => restaurant.info.avgRating >= 4.5);
                     setFilteredRestaurantList(filteredData);
                 }}>Top Rated Restaurants
                 </button>
             </div>
-            <div className="restaurant-container">
+            <div className="flex flex-wrap">
                 {filteredRestaurantList.map((restaurant) => (
                     <Link to={"/restaurant/" + restaurant.info.id} key={restaurant.info.id}><RestaurantCard
                         restaurantData={restaurant}/></Link>

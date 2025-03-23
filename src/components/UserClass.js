@@ -13,16 +13,17 @@ class UserClass extends React.Component {
         console.log(this.props.name + " render called");
         const {name, location} = this.props;
         return (
-            <div className="UserClass">
-                <h3>Count: {this.state.count}</h3>
-                <button onClick={() => {
+            <div>
+                <h3 className="text-lg mx-4">Count: {this.state.count}</h3>
+                <button className="mx-4 bg-amber-400 border-1 px-1" onClick={() => {
                     this.setState({
                         count: this.state.count + 1
                     });
                 }}>Increase Count
                 </button>
-                <h4>Name: {name}</h4>
-                <h4>Location: {location}</h4>
+                <h4 className="mx-4">Name: {name}</h4>
+                <h4 className="mx-4">Location: {location}</h4>
+                <br/>
             </div>
         );
     }
