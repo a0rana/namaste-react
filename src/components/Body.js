@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import RestaurantCard from "./RestaurantCard";
+import RestaurantCard, {withPromotedLabel} from "./RestaurantCard";
 import Shimmer from "./Shimmer";
 import {Link} from "react-router";
 import useOnlineStatus from "../../utils/useOnlineStatus";
@@ -8,11 +8,13 @@ const BodyComponent = () => {
     let searchText = '';
     const [restaurantList, setRestaurantList] = useState([]);
     const [filteredRestaurantList, setFilteredRestaurantList] = useState([]);
+    const RestaurantCardPromoted = withPromotedLabel(RestaurantCard);
 
     useEffect(() => {
         async function fetchData() {
             const response = await fetch('https://www.swiggy.com/dapi/restaurants/list/v5?lat=17.4660387&lng=78.3120888&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING');
             const data = await response.json();
+            data.data.cards[1].card.card.gridElements.infoWithStyle.restaurants[0].info.promoted = true;
             setRestaurantList(data?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
             setFilteredRestaurantList(data?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
         }
@@ -56,10 +58,12 @@ const BodyComponent = () => {
                 }}>Top Rated Restaurants
                 </button>
             </div>
-            <div className="flex flex-wrap">
+            <div className="flex flex-wrap cursor-pointer">
                 {filteredRestaurantList.map((restaurant) => (
-                    <Link to={"/restaurant/" + restaurant.info.id} key={restaurant.info.id}><RestaurantCard
-                        restaurantData={restaurant}/></Link>
+                    <Link to={"/restaurant/" + restaurant.info.id}
+                          key={restaurant.info.id}>{restaurant.info.promoted ? (
+                        <RestaurantCardPromoted restaurantData={restaurant?.info}/>) : (
+                        <RestaurantCard restaurantData={restaurant?.info}/>)}</Link>
                 ))}
             </div>
         </div>
