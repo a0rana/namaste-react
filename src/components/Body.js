@@ -1,8 +1,9 @@
-import React, {useEffect, useState} from "react";
+import React, {useContext, useEffect, useState} from "react";
 import RestaurantCard, {withPromotedLabel} from "./RestaurantCard";
 import Shimmer from "./Shimmer";
 import {Link} from "react-router";
 import useOnlineStatus from "../../utils/useOnlineStatus";
+import UserContext from "../../utils/UserContext";
 
 const BodyComponent = () => {
     let searchText = '';
@@ -29,6 +30,8 @@ const BodyComponent = () => {
             <h1>Your internet is not working!!</h1>
         );
     }
+
+    const {loggedInUser, setUserName} = useContext(UserContext);
 
     if (restaurantList.length === 0) {
         return (
@@ -57,6 +60,12 @@ const BodyComponent = () => {
                     setFilteredRestaurantList(filteredData);
                 }}>Top Rated Restaurants
                 </button>
+                <label> UserName: </label>
+                <input
+                    className="border border-black p-2"
+                    value={loggedInUser}
+                    onChange={(e) => setUserName(e.target.value)}
+                />
             </div>
             <div className="flex flex-wrap cursor-pointer">
                 {filteredRestaurantList.map((restaurant) => (
